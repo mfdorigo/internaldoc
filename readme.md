@@ -2,6 +2,12 @@
 
 ## Tipos de Comentários
 
+- **Inicialização de Novo Projeto**: 
+  - `init: Initialize project structure`
+  - `init: Add base folders and initial config`
+  - `init: Setup project with README and .gitignore`
+  - `init: Start repository with initial commit`
+
 - **Correção de Bug**: 
   - `fix: Resolve typo in user registration`
   - `fix: Fix null pointer exception in payment processing`
